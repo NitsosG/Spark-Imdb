@@ -1,0 +1,10 @@
+project/target/
+target/
+.idea/.name
+.idea/libraries/
+.idea/modules/
+.idea/modules.xml
+.idea/scala_compiler.xml
+.idea/tasks.xml
+.idea/workspace.xml
+.idea_modules/
